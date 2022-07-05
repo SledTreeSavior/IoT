@@ -1,2 +1,3 @@
-#define SSID "NETGEAR82"
-#define PASSWORD "vanillahat306"
+#define SSID "XXX"
+#define PASSWORD "XXX"
+// edited for privacy
